@@ -6,6 +6,9 @@
 <a href="https://github.com/dinuwah"><img title="Author" src="https://img.shields.io/badge/CREATOR-THE DEVELOPER²⁰²³-green.svg?style=for-the-badge&logo=github"></a>
 
 ---------
+p align="center">  
+  <img src="https://d.top4top.io/p_1837luigd0.gif" alt="GIF" width="128" height="128"/>  
+  </p>  
 
  ***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/adiwajshing/Baileys)*** 
   
