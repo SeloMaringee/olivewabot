@@ -24,7 +24,9 @@
  - Get openAi key [Here](https://beta.openai.com/account/api-keys) and paste it in the environmental variables section named AI.
  - 
    ![71g1TNP7JXL](https://github.com/thedeveloper03/olivewabot/assets/123274423/4ad3a313-9af3-4ec4-847c-b04d82d1971a)
-      
+   <p align="center">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=OLIVIA+OLIVE+MD+BY+THE+DEVELOPER" alt="">
+   
  ## SET UP
   
  - Fork this repo by tapping  [here](https://github.com/thedeveloper03/olivewabot/fork) 
