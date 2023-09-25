@@ -14,7 +14,7 @@
  <br> 
       <br> 
   
- ## `SET UP` 
+ ## SET UP
   
  - Fork this repo by tapping  [here](https://github.com/thedeveloper03/olivewabot/fork) 
  - Change repository value in app.json to yours. [Tap here](https://github.com/thedeveloper03/olivewabot/blob/main/app.json#L18) 
@@ -43,11 +43,10 @@
  ```
  $ cd olivewabot
  ```
- $ npm install 
- ``` 
-  
-  
- **Running the bot** 
+ $ npm install
+ 
+ **Running the bot
+
  ```bash 
  $ node index.js 
  ``` 
