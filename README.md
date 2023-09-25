@@ -8,12 +8,10 @@
  You will need an openai API key for AI features to work. 
   
  # Find  OpenAI ApiKey. 
- - Get openAi key [Here](https://beta.openai.com/account/api-keys) and paste it in the environmental variables section named AI. 
- </h2> 
-         
- <br> 
-      <br> 
-  
+ - Get openAi key [Here](https://beta.openai.com/account/api-keys) and paste it in the environmental variables section named AI.
+ - 
+   ![71g1TNP7JXL](https://github.com/thedeveloper03/olivewabot/assets/123274423/4ad3a313-9af3-4ec4-847c-b04d82d1971a)
+      
  ## SET UP
   
  - Fork this repo by tapping  [here](https://github.com/thedeveloper03/olivewabot/fork) 
