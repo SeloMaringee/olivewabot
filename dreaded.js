@@ -204,59 +204,58 @@ const { BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessageFromContent, proto, g
          case "menu": 
   
                         client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/d6dab955fbaa42fce2280.jpg' }, caption: `OLIVIA OLIVE MD\n\nHello ${m.pushName}.\nThis is OLIVIA OLIVE MD, a simple whatsApp Bot! My prefix is ${prefix} and below are the usable commands.
-                         
-   𝐀𝐃𝐌𝐈𝐍 𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒 
-    
- [+] delete
- [+] promote
- [+] demote
- [+] remove
- [+] close
- [+] open
- [+] disp-off
- [+] disp1
- [+] disp7
- [+] disp90
- [+] icon
- [+] subject
- [+] desc
- [+] leave
- [+] tagall
- [+] hidetag
- [+] revoke 
-  
-   𝐆𝐄𝐍𝐄𝐑𝐀𝐋 𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒 
-    
-  [+] sticker
-  [+] toimg
-  [+] song
-  [+] play
-  [+] yts
-  [+] ytmp3
-  [+] ytmp4
-  [+] lyrics
-  [+] mix
-  [+] script
-  [+] owner
-  [+] dp
-  [+] runtime
-  [+] speed
-  [+] alive
-  [+] gpt
-  [+] ai-img
-  [+] credits 
-  
-   𝐎𝐖𝐍𝐄𝐑 𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒 
-    
-  [+] broadcast
-  [+] block
-  [+] unblock
-  [+] admin
-  [+] botpp
-  [+] join 
-    
-  
-        ------- 𝐸𝑛𝑑 -------  
+                      
+  ╭━━━〘 𝐀𝐃𝐌𝐈𝐍 𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒 〙━━━━━━
+  ┃ ✭ delete
+  ┃ ✭ promote
+  ┃ ✭ demote
+  ┃ ✭ remove
+  ┃ ✭ close
+  ┃ ✭ open
+  ┃ ✭ disp-off
+  ┃ ✭ disp1
+  ┃ ✭ disp7
+  ┃ ✭ disp90
+  ┃ ✭ icon
+  ┃ ✭ subject
+  ┃ ✭ desc
+  ┃ ✭ leave
+  ┃ ✭ tagall
+  ┃ ✭ hidetag
+  ┃ ✭ revoke 
+  ┃ ✭
+  ┃━━━━〘 𝐆𝐄𝐍𝐄𝐑𝐀𝐋 𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒 〙━━━━━
+  ┃ ✭  
+  ┃ ✭ sticker
+  ┃ ✭ toimg
+  ┃ ✭ song
+  ┃ ✭ play
+  ┃ ✭ yts
+  ┃ ✭ ytmp3
+  ┃ ✭ ytmp4
+  ┃ ✭ lyrics
+  ┃ ✭ mix
+  ┃ ✭ script
+  ┃ ✭ owner
+  ┃ ✭ dp
+  ┃ ✭ runtime
+  ┃ ✭ speed
+  ┃ ✭ alive
+  ┃ ✭ gpt
+  ┃ ✭ ai-img
+  ┃ ✭ credits 
+  ┃ ✭
+  ┃━━━━〘 𝐎𝐖𝐍𝐄𝐑 𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒 〙━━━━━ 
+  ┃ ✭
+  ┃ ✭ broadcast
+  ┃ ✭ block
+  ┃ ✭ unblock
+  ┃ ✭ admin
+  ┃ ✭ botpp
+  ┃ ✭ join 
+  ╰━━━━━━━━━━━━━━⊷
+ 
+      ------- 𝐸𝑛𝑑 -------  
     
                 𝗡𝗼𝘁𝗲:  
   
