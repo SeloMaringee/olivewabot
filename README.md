@@ -5,10 +5,17 @@
 <p align="center">
 <a href="https://github.com/dinuwah"><img title="Author" src="https://img.shields.io/badge/CREATOR-THE DEVELOPER²⁰²³-green.svg?style=for-the-badge&logo=github"></a>
 
----------
 <p align="center">  
   <img src="https://d.top4top.io/p_1837luigd0.gif" alt="GIF" width="128" height="128"/>  
-  </p>  
+  </p>
+  <p align="center">  
+  <a href="https://github.com/adimas999/followers"><img title="Followers" src="https://img.shields.io/github/followers/adimas999?color=red&style=flat-square"></a>  
+  <a href="https://github.com/adimas999/megumikato2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/adimas999/BotV3?color=blue&style=flat-square"></a>  
+  <a href="https://github.com/adimas999/megumikato2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/adimas999/BotV3?color=red&style=flat-square"></a>  
+  <a href="https://github.com/adimas999/megumikato2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/adimas999/BotV3?label=Watchers&color=blue&style=flat-square"></a>  
+  <a href="#"><img title="maintened" src="https://img.shields.io/badge/maintained%3F-yes-green.svg?style=flat"></a>  
+  <a href="#"><img title="repo size" src="https://img.shields.io/github/repo-size/adimas999/BotV3?style=flat-square"></a>  
+  </p>
 
  ***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/adiwajshing/Baileys)*** 
   
