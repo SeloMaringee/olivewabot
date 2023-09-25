@@ -22,10 +22,8 @@
   
  Alternatively, connect your fork to your heroku account and manually add the environmental variables.  
        
- <h2 align="center">   Use termux and scan QR Code. 
-  
-  
- Upload the creds.json from your termux files to the dreaded1 folder. 
+ Use termux and scan QR Code. 
+   Upload the creds.json from your termux files to the dreaded1 folder. 
   
  Connect your fork to any suitable cloud host and deploy. 
   
