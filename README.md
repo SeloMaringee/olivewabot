@@ -41,7 +41,7 @@
  Add the environmental variables in your hosting site for bot to work. 
  
 ## ```DEPLOY IN REPLIT```
-[![Run on Repl.it](https://repl.it/badge/github/thedeveloper03/olivewabot)](https://replit.com/github.com/thedeveloper03/olivewabot)
+[![Run on Repl.it](https://repl.it/badge/github/thedeveloper03/olivewabot)](https://repl.it/github/thedeveloper03/olivewabot)
   
   
  Termux procedure is given below. 
