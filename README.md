@@ -38,11 +38,11 @@
   
    ```bash 
  $ pkg install git nodejs -y 
- ```
+ 
  $ git clone https://github.com/thedeveloper03/olivewabot 
- ```
+ 
  $ cd olivewabot
- ```
+ 
  $ npm install
  
  **Running the bot
