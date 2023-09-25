@@ -44,7 +44,10 @@
  
 ## ```DEPLOY IN REPLIT```
 [![Run on Repl.it](https://repl.it/badge/github/thedeveloper03/olivewabot)](https://repl.it/github/thedeveloper03/olivewabot)
-  
+
+ ## ```HEROKU DEPLOYMENT```
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/thedeveloper03/olivewabot)
+---------
   
  Termux procedure is given below. 
    
