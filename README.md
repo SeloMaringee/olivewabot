@@ -45,9 +45,6 @@
  
  $ npm install
  
- **Running the bot
-
- ```bash 
  $ node index.js 
  ``` 
   
