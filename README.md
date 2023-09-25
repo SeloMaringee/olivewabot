@@ -39,12 +39,13 @@
  Connect your fork to any suitable cloud host and deploy. 
   
  Add the environmental variables in your hosting site for bot to work. 
-   
+ 
+## ```DEPLOY IN REPLIT```
+[![Run on Repl.it](https://repl.it/badge/github/thedeveloper03/olivewabot)](https://replit.com/thedeveloper03/olivewabot)
+  
   
  Termux procedure is given below. 
-  
- Replit will be added however you can easily add it yourself. 
-  
+   
  **Install Via Termux locally✅** 
   
    ```bash 
