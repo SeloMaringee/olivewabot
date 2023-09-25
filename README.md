@@ -11,7 +11,13 @@
   
  ## FEATURES 
  This is a highly customisable simple whatsapp bot with group management features and few media commands and chatgpt courtesy of openai APIs. 
-  
+
+ - ✔️ | **Simple** 
+- ✔️ | **18+ Adult Video Downloader** 
+- ✔️ | **Multi Device** 
+- ✔️ | **Button Document(Experiment)** 
+---------
+
  You will need an openai API key for AI features to work. 
   
  # Find  OpenAI ApiKey. 
